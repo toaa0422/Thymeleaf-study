@@ -10,12 +10,16 @@
         <module name="ch02-web-tpl" />
         <module name="first-hello-thymeleaf" />
         <module name="first-hello-thymeleaf1" />
+        <module name="first-thymeleaf-springboot" />
+        <module name="hello-thymeleaf" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ch02-web-tpl" target="1.8" />
       <module name="first-hello-thymeleaf" target="1.8" />
       <module name="first-hello-thymeleaf1" target="1.8" />
+      <module name="first-thymeleaf-springboot" target="1.8" />
+      <module name="hello-thymeleaf" target="1.8" />
       <module name="my-first-hello-thymeleaf" target="1.8" />
     </bytecodeTargetLevel>
   </component>

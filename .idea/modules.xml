@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/ch02-web-tpl/ch02-web-tpl.iml" filepath="$PROJECT_DIR$/ch02-web-tpl/ch02-web-tpl.iml" />
       <module fileurl="file://$PROJECT_DIR$/first-hello-thymeleaf/first-hello-thymeleaf.iml" filepath="$PROJECT_DIR$/first-hello-thymeleaf/first-hello-thymeleaf.iml" />
       <module fileurl="file://$PROJECT_DIR$/first-hello-thymeleaf/first-hello-thymeleaf1.iml" filepath="$PROJECT_DIR$/first-hello-thymeleaf/first-hello-thymeleaf1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first-thymeleaf-springboot/first-thymeleaf-springboot.iml" filepath="$PROJECT_DIR$/first-thymeleaf-springboot/first-thymeleaf-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-thymeleaf/hello-thymeleaf.iml" filepath="$PROJECT_DIR$/hello-thymeleaf/hello-thymeleaf.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch02-web-tpl/src/main/resources/templates/my-first-hello-thymeleaf/my-first-hello-thymeleaf.iml" filepath="$PROJECT_DIR$/ch02-web-tpl/src/main/resources/templates/my-first-hello-thymeleaf/my-first-hello-thymeleaf.iml" />
     </modules>
   </component>

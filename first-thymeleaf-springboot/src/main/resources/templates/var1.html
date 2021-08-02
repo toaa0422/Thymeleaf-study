@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8" >
+    <title>Title</title>
+</head>
+<body>
+  <p th:text="${myname}"></p>
+  <p th:text="${myage}"></p>
+
+
+  <hr>
+  <p th:text="${student.id}">id</p>
+  <p th:text="${student.name}">name</p>
+  <p th:text="${student.email}">email</p>
+  <p th:text="${student.age}">age</p>
+  <p th:text="${student.mySchool.scname}">age</p>
+  <p th:text="${student.mySchool.scaddress}">age</p>
+  <p th:text="${student.mySchool.getScaddress()}">age</p>
+</body>
+</html>
