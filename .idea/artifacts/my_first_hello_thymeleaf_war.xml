@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="my-first-hello-thymeleaf:war">
+    <output-path>$PROJECT_DIR$/ch02-web-tpl/src/main/resources/templates/my-first-hello-thymeleaf/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>my-first-hello-thymeleaf</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="my-first-hello-thymeleaf.war">
+      <element id="artifact" artifact-name="my-first-hello-thymeleaf:war exploded" />
+    </root>
+  </artifact>
+</component>
