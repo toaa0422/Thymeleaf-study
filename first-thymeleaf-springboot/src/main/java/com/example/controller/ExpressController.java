@@ -25,7 +25,10 @@ public class ExpressController {
         school.setScaddress("北京");
         student.setMySchool(school);
         return "var1";
+    }
 
-
+    @RequestMapping("i18N")
+    public String i18n(Model model) {
+        return "login";
     }
 }

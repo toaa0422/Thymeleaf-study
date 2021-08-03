@@ -10,6 +10,8 @@ public class linkController {
     @RequestMapping("/link/test")
     public String doLink(Model model) {
         model.addAttribute("queryStudent", "/query/student");
+        model.addAttribute("name", "zhangfei");
+
         return "link";
 
     }

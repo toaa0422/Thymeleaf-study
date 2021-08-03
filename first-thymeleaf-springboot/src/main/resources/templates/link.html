@@ -6,8 +6,16 @@
 </head>
 <body>
     <p>链接表达式</p>
-    <a th:href="@{queryStudent}">1.@{queryStudent}</a>
+    <a th:href="@{mytest}"  >1 mytest</a>
+    <br>
+    <a th:href="@{./queryStudent(id=1001)}">2</a>
+    <br>
+    <a th:href="@{../user/list(id=1,fk='haha')}"  >3</a>
+    <br>
+    <a th:href="@{user/home(name=${name})}"  >4</a>
+    <br>
+    <a th:href="@{http:www.baidu.com}"  >5</a>
     <br>
 
-</body>
+</body>mytest
 </html>
