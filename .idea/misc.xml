@@ -7,11 +7,7 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/ch02-web-tpl/pom.xml" />
-        <option value="$PROJECT_DIR$/ch02-web-tpl/src/main/resources/templates/my-first-hello-thymeleaf/pom.xml" />
         <option value="$PROJECT_DIR$/first-hello-thymeleaf/pom.xml" />
-        <option value="$PROJECT_DIR$/hello-thymeleaf/pom.xml" />
-        <option value="$PROJECT_DIR$/first-thymeleaf-springboot/pom.xml" />
       </list>
     </option>
   </component>

@@ -6,12 +6,6 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="my-first-hello-thymeleaf" />
-        <module name="ch02-web-tpl" />
-        <module name="first-hello-thymeleaf" />
-        <module name="first-hello-thymeleaf1" />
-        <module name="first-thymeleaf-springboot" />
-        <module name="hello-thymeleaf" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
